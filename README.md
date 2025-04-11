@@ -59,4 +59,4 @@ Library yang digunakan:
 
 ## 👤 Author
 
-13523051 — [Ferdinand Gabe Tua Sinaga]
+13523051 — Ferdinand Gabe Tua Sinaga
