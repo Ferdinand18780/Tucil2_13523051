@@ -52,7 +52,7 @@ Library yang digunakan:
 
 ## 🖼️ Output
 
-- Hasil kompresi gambar disimpan dalam folder `/test`.
+- Hasil kompresi gambar disimpan dalam folder yang telah user berikan.
 - GIF animasi progres kompresi juga tersimpan dalam folder tersebut.
 
 ---
